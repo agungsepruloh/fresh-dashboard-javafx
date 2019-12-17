@@ -1,0 +1,48 @@
+.button-signIn {
+    -fx-background-color: #3498db;
+    border-radius: 0px;
+}
+
+.button-signIn:hover {
+    -fx-background-color: #2980b9;
+}
+
+.button-signIn:pressed {
+    -fx-background-color: #303F9F;
+}
+
+.button-signUp {
+    -fx-background-color: #2ecc71;
+    border-radius: 0px;
+}
+
+.button-signUp:hover {
+    -fx-background-color: #27ae60;
+}
+
+.button-signUp:pressed {
+    -fx-background-color: #00796B;
+}
+
+.btnMenu {
+    -fx-background-color: #3498db;
+}
+
+.btnMenu:hover {
+    -fx-background-color: #2980b9;
+}
+
+.btnMenu:pressed {
+    -fx-background-color: #303F9F;
+}
+
+.btnMenu:focused {
+    -fx-background-color: #0288D1;
+    -fx-border-color: #cdd1d6;
+    -fx-border-width: 0px 0px 0px 3px;
+}
+
+.lblName {
+    -fx-border-color: #bdc3c7;
+    -fx-border-width: 0px 0px 2px 0px;
+}
